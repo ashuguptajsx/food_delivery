@@ -163,7 +163,7 @@ export default function Home() {
           transition={{ duration: 0.7, delay: 0.8 }}
           className="bg-orange-100 rounded-2xl p-6 shadow-inner"
         >
-          <h2 className="text-2xl font-bold mb-3 text-orange-800">Today's Special Offer 🔥</h2>
+          <h2 className="text-2xl font-bold mb-3 text-orange-800">Today&apos;s Special Offer 🔥</h2>
           <p className="text-orange-700 mb-4">Order any two items and get a free dessert! Limited time offer.</p>
           <motion.button
             whileHover={{ scale: 1.05, backgroundColor: "#ea580c" }}
